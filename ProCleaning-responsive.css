@@ -1,0 +1,1249 @@
+@media only screen and (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    header.pro {
+        padding-block-start: 4px;
+        padding-inline-end: 1%;
+        padding-inline-start: 1%;
+    }
+
+    .pro1.d-flex {
+        margin-inline-end: 70px;
+    }
+
+    p.intro5 {
+        font-size: 36px;
+    }
+
+    .intro12 {
+        top: 12%;
+        padding-inline-start: 5.5%;
+    }
+
+    p.intro6 {
+        width: 100%;
+    }
+
+    section.service {
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+        margin-top: 6%;
+    }
+
+    section.solutions {
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+    }
+
+    p.expert4 {
+        font-size: 32px;
+        width: 100%;
+    }
+
+    section.welcome {
+        padding-inline-start: 0%;
+        padding-block-start: 7%;
+        padding-bottom: 5%;
+    }
+
+    .pricing4 {
+        top: 9.5%;
+        left: 4%;
+    }
+
+    section.feedback {
+        margin-top: 40%;
+        padding-inline-start: 2%;
+        padding-inline-end: 2%;
+    }
+
+    .tips3 {
+        padding-inline: 0px;
+    }
+
+
+    section.contact {
+        margin-top: 11%;
+        padding-inline-start: 2%;
+        padding-inline-end: 2%;
+        margin-bottom: 5%;
+        background-color: #FBFBFB;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    header.pro {
+        padding-block-start: 4px;
+        padding-inline-end: 4.2%;
+        padding-inline-start: 5.5%;
+    }
+
+    .pro1.d-flex {
+        margin-inline-end: 130px;
+    }
+
+    p.intro5 {
+        margin: 0;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 115%;
+        color: #111D15;
+        margin-bottom: 18px;
+    }
+
+    .intro12 {
+        top: 12%;
+        padding-inline-start: 8.5%;
+    }
+
+    p.intro6 {
+        width: 100%;
+    }
+
+    section.solutions {
+        margin-top: 12%;
+        padding-inline-start: 5%;
+        padding-inline-end: 3%;
+    }
+
+    p.expert4 {
+        width: 92%;
+        font-size: 42px;
+    }
+    
+    section.welcome {
+        padding-inline-start: 3%;
+    }
+
+    .pricing4 {
+        top: 13.5%;
+        left: 3%;
+    }
+
+    .pricing21 {
+        padding-inline: 38px;
+    }
+
+    section.feedback {
+        margin-top: 38%;
+        padding-inline-start: 6%;
+        padding-inline-end: 3%;
+    }
+
+    p.service7 {
+        font-size: 15px;
+    }
+
+    .tips3 {
+        padding-inline: 16px;
+    }
+
+    section.contact {
+        padding-inline-end: 2%;
+        padding-inline-start: 2%;
+        background-color: #FBFBFB;
+    }
+}
+
+@media only screen and (min-width: 1400px){
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+    header.pro {
+        padding-block-start: 10px;
+        padding-inline-end: 9.2%;
+        padding-inline-start: 8.5%;
+    }
+
+    .pro1.d-flex {
+        margin-inline-end: 180px;
+    }
+
+    p.intro5 {
+        font-size: 52px;
+    }
+
+    .intro12 {
+        top: 18%;
+        padding-inline-start: 8.5%;
+    }
+
+    p.intro6 {
+        width: 86%;
+    }
+
+    section.service {
+        padding-inline-start: 8%;
+        padding-inline-end: 8%;
+        margin-top: 11%;
+        margin-bottom: 30px;
+    }
+
+    section.solutions {
+        margin-top: 12%;
+        padding-inline-start: 9%;
+        padding-inline-end: 9%;
+    }
+
+    p.expert4 {
+        width: 90%;
+    }
+
+    section.welcome {
+        padding-inline-start: 8%;
+        padding-block-start: 9%;
+        padding-bottom: 5%;
+    }
+
+    .pricing4 {
+        top: 13.5%;
+        left: 9%;
+    }
+
+    .pricing21 {
+        background-color: #FFFFFF;
+        padding-inline: 48px;
+        border-radius: 15px;
+        padding-block: 30px;
+    }
+
+    section.feedback {
+        margin-top: 29%;
+        padding-inline-start: 9%;
+        padding-inline-end: 8%;
+    }
+
+    p.service7 {
+        font-size: 16px;
+    }
+
+    .tips3 {
+        padding-inline: 23px;
+        padding-top: 14px;
+    }
+
+    section.contact {
+        margin-top: 11%;
+        padding-inline-start: 8%;
+        padding-inline-end: 8%;
+        margin-bottom: 5%;
+        background-color: #FBFBFB;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .service3 {
+        width: 50%;
+    }
+
+    p.service4 {
+        font-size: 34px;
+        width: 100%;
+    }
+
+    p.solutions5 {
+        font-size: 34px;
+    }
+
+    p.solutions6 {
+        font-size: 16px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    p.welcome6 {
+        width: 100%;
+    }
+
+    p.welcome5 {
+        font-size: 38px;
+    }
+
+    img.welcome2 {
+        width: 98%;
+    }
+
+    .pricing21 {
+        padding-inline: 31px;
+    }
+
+    p.pricing15 {
+        padding-inline: 11px;
+        padding-right: 16px;
+    }
+
+    p.pricing13 {
+        font-size: 18px;
+    }
+
+    p.pricing18 {
+        font-size: 13px;
+    }
+
+    p.feedback4 {
+        font-size: 36px;
+    }
+
+    p.feedback5 {
+        font-size: 15px;
+    }
+
+    .feedback11 {
+        padding-inline-end: 12px;
+    }
+
+    img.feedback19 {
+        width: 140px;
+    }
+
+    p.tips4 {
+        font-size: 17px;
+    }
+
+    p.tips5 {
+        font-size: 14px;
+    }
+
+    p.contact14 {
+        font-size: 14px;
+    }
+
+    .contact10 {
+        padding-inline-start: 8%;
+    }
+
+    footer.us {
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+    }
+
+    .us2 {
+        width: 35%;
+        padding-top: 6px;
+        padding-inline-start: 0px;
+    }
+
+    input.form-control.us22 {
+        width: 250px;
+    }
+
+    .service10 {
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    header.pro {
+        padding-block-start: 0px;
+        padding-inline-end: 0%;
+        padding-inline-start: 0%;
+    }
+
+    .pro1.d-flex {
+        margin-inline-end: 0px;
+    }
+
+    .intro12 {
+        top: 6%;
+        padding-inline-start: 2%;
+    }
+
+    p.intro5 {
+        font-size: 30px;
+        line-height: 105%;
+        margin-bottom: 16px;
+    }
+
+    p.intro6 {
+        font-size: 16px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    p.intro9 {
+        padding-inline: 22px;
+    }
+
+    p.intro11 {
+        padding-inline: 16px;
+    }
+
+    section.service {
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+        margin-top: 6%;
+        margin-bottom: 30px;
+    }
+
+    p.service7 {
+        font-size: 12px;
+    }
+
+    section.solutions {
+        margin-top: 10%;
+        padding-inline-start: 0%;
+        padding-bottom: 8%;
+        padding-inline-end: 0%;
+    }
+
+    p.solutions5 {
+        font-size: 27px;
+    }
+
+    p.solutions8 {
+        margin-top: 30px;
+    }
+    
+    p.expert4 {
+        font-size: 26px;
+        width: 100%;
+    }
+
+    section.welcome {
+        padding-inline-start: 0%;
+        padding-block-start: 6%;
+        padding-bottom: 5%;
+    }
+
+    img.welcome2 {
+        width: 100%;
+    }
+
+    .welcome7 {
+        row-gap: 20px;
+        padding-inline-end: 0%;
+        column-gap: 6%;
+    }
+
+    p.welcome5 {
+        font-size: 30px;
+        padding-bottom: 14px;
+    }
+
+    p.welcome6 {
+        font-size: 13px;
+        line-height: 150%;
+    }
+
+    .welcome3 {
+        gap: 25px;
+    }
+
+    .pricing4 {
+        top: 8%;
+        left: 4%;
+    }
+
+    .pricing22 {
+        gap: 10px;
+    }
+
+    p.pricing15 {
+        padding-inline: 11px;
+        padding-right: 6px;
+        font-size: 18px;
+    }
+
+    .pricing21 {
+        padding-inline: 4px;
+    }
+
+    p.pricing15 {
+        padding-inline: 10px;
+        padding-right: 10px;
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .pricing14 {
+        display: flex;
+        justify-content: center;
+    }
+
+    section.feedback {
+        margin-top: 62%;
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+    }
+
+    p.feedback4 {
+        font-size: 28px;
+    }
+
+    p.feedback5 {
+        font-size: 12px;
+    }
+
+    img.feedback20 {
+        width: 60px;
+    }
+
+    img.feedback19 {
+        width: 120px;
+    }
+
+    .feedback8 {
+        padding: 12px;
+        gap: 14px;
+    }
+
+    p.feedback18 {
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: 0px;
+    }
+
+    .feedback21 {
+        gap: 10px;
+        padding-bottom: 8px;
+    }
+
+    p.feedback14 {
+        padding-bottom: 10px;
+    }
+
+    p.service4 {
+        font-size: 28px;
+    }
+
+    .tips3 {
+        padding-inline: 0px;
+    }
+
+    .tips9:hover .tips6 {
+        padding-block: 12px;
+    }
+
+    p.tips5 {
+        font-size: 13px;
+    }
+
+    p.tips4 {
+        font-size: 14px;
+    }  
+    
+    section.contact {
+        margin-top: 9%;
+        padding-inline-start: 0%;
+        padding-inline-end: 0%;
+        margin-bottom: 5%;
+        background-color: #FBFBFB;
+    }
+
+    .contact10 {
+        padding-inline-start: 2%;
+    }
+
+    p.contact9 {
+        font-size: 14px;
+    }
+
+    input.form-control.us22 {
+        width: 200px;
+    }
+
+    p.us12 {
+        font-size: 14px;
+    }
+
+    p.us17 {
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+
+    p.us15 {
+        font-size: 16px;
+    }
+
+    p.us8 {
+        font-size: 20px;
+    }
+
+    p.us10 {
+        font-size: 10px;
+        padding-block-start: 6px;
+    }
+
+    .pro11 {
+        gap: 0px;
+    }
+
+    .pro8 {
+        font-size: 14px;
+    }
+    
+    .pro9 {
+        font-size: 14px;
+        padding-block: 10px;
+        padding-inline: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    p.intro5 {
+        font-size: 24px;
+        line-height: 100%;
+        margin-bottom: 8px;
+    }
+
+    p.intro4 {
+        font-size: 18px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+
+    p.intro6 {
+        font-size: 13px;
+        margin-bottom: 12px;
+    }
+
+    p.intro9 {
+        padding-inline: 10px;
+        font-size: 14px;
+    }
+
+    p.intro11 {
+        padding-inline: 8px;
+        font-size: 14px;
+    }
+
+    section.intro {
+        margin-top: 0px;
+    }
+
+    .service8 {
+        justify-content: center;
+        row-gap: 40px;
+    }
+
+    .service3 {
+        width: 100%;
+    }
+
+    .service5 {
+        align-items: center;
+    }
+
+    .service2 {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        gap: 30px;
+    }
+    
+    img.solutions10 {
+        width: 70%;
+    }
+
+    .row {
+        justify-content: center;
+        align-items: center;
+    }
+
+     p.pricing7 {
+        font-size: 28px;
+    }
+
+    .pricing4 {
+        position: unset !important;
+    }
+
+    p.pricing6 {
+        color: #000000;
+    }
+
+    p.pricing7 {
+        color: #000000;
+    }
+
+        p.pricing20 {
+            font-size: 14px;
+            padding-block: 10px;
+        }
+
+        .pricing21 {
+            padding-inline: 10px;
+            border: 1px solid #36B864;
+        }
+
+        section.pricing {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+        .pricing22 {
+            gap: 30px;
+            grid-template-columns: 1fr 1fr;
+            justify-items: center;
+        }
+
+        p.pricing13 {
+            font-size: 14px;
+        }
+
+
+        section.feedback {
+            margin-top: 8%;
+            padding-inline-start: 0%;
+            padding-inline-end: 0%;
+        }
+
+        .row {
+            gap: 30px;
+        }
+
+        .feedback3 {
+            padding-bottom: 20px;
+        }
+
+        p.tips2 {
+            font-size: 12px;
+            padding-top: 0px;
+        }
+
+        .card-body.tips9 {
+            padding-inline: 2px;
+        }
+
+        .tips9:hover .tips6 {
+            padding-block: 8px;
+            margin-inline: 20px;
+        }
+    
+        .contact2 {
+            padding-top: 4%;
+        }
+
+        p.contact3 {
+            font-size: 32px;
+        }
+
+        .contact6 {
+            padding: 12px;
+        }
+
+        p.contact8 {
+            font-size: 16px;
+        }
+
+        .contact5 {
+            padding: 10px;
+        }
+
+        form.contact15 {
+            margin-top: 6%;
+        }
+
+        .contact16 {
+            padding: 12px;
+        }
+
+        .us2 {
+            width: 32%;
+            padding-top: 0px;
+            padding-inline-start: 0px;
+        }
+
+        input.form-control.us22 {
+            width: 130px;
+            padding-block-start: 4px;
+        }
+
+        p.us12 {
+            font-size: 12px;
+            margin-top: 12px;
+        }
+
+        p.us17 {
+            font-size: 12px;
+            padding-bottom: 18px;
+        }
+
+        .us20 {
+            padding-block-start: 2px;
+            gap: 18px;
+        }
+
+        p.us24 {
+            font-size: 12px;
+            padding-block: 12px;
+            padding-inline: 26px;
+        }
+
+        .us22::placeholder{
+            font-size: 12px;
+        }
+
+        p.us15 {
+            font-size: 15px;
+        }
+}
+
+@media only screen and (max-width: 576px){
+    p.intro4 {
+        font-size: 16px;
+        line-height: 60%;
+        margin-bottom: 7px;
+    }
+
+    p.intro5 {
+        font-size: 20px;
+        line-height: 100%;
+        margin-bottom: 6px;
+    }
+
+    .intro12 {
+        padding-inline-start: 0%;
+    }
+
+    p.intro6 {
+        font-size: 11px;
+        margin-bottom: 6px;
+    }
+
+    p.intro11 {
+        padding-inline: 8px;
+        font-size: 12px;
+        padding-block: 10px;
+    }
+
+    p.intro9 {
+        padding-inline: 10px;
+        font-size: 12px;
+        padding-block: 10px;
+    }
+
+    p.service4 {
+        font-size: 24px;
+    }
+
+    .service2 {
+        padding-bottom: 20px;
+        margin-bottom: 25px;
+        gap: 14px;
+    }
+
+    .service8 {
+        row-gap: 20px;
+    }
+
+    p.solutions8 {
+        font-size: 14px;
+        padding-block: 16px;
+        padding-inline: 30px;
+        margin-top: 20px;
+    }
+
+    img.solutions10 {
+        width: 80%;
+    }
+
+    p.solutions6 {
+        font-size: 14px;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    section.solutions {
+        margin-top: 0%;
+    }
+
+    .welcome12 {
+        font-size: 16px;
+        padding-inline: 30px;
+        padding-block: 12px;
+    }
+
+    .pricing21 {
+        padding-inline: 20px;
+        padding-block: 16px;
+    }
+    
+    .pricing22 {
+        gap: 10px;
+        grid-template-columns: 1fr;
+    }
+
+    p.pricing18 {
+        line-height: 200%;
+        font-size: 11px;
+    }
+
+    ul.pricing16 {
+        color: #666666;
+        padding-block-start: 16px;
+        padding-inline-start: 8px;
+        margin: 0;
+        padding-block-end: 16px;
+    }
+
+    p.pricing13 {
+        font-size: 13px;
+    }
+
+    .feedback9 {
+        border: 0px solid #E6E6E6;
+        border-radius: 8px;
+    }
+
+    p.feedback4 {
+        font-size: 24px;
+    }
+
+    p.feedback5 {
+        font-size: 11px;
+    }
+
+    p.contact14 {
+        font-size: 12px;
+    }
+
+    p.contact13 {
+        font-size: 26px;
+    }
+
+    p.contact12 {
+        margin-bottom: 4px;
+    }
+
+    p.contact3 {
+        font-size: 28px;
+    }
+
+    .contact2 {
+        padding-top: 0%;
+    }
+
+    svg.contact20 {
+        width: 20px;
+        height: 20px;
+    }
+
+    .contact6 {
+        padding: 9px;
+        padding-block-start: 6px;
+    }
+
+    .contact17 {
+        margin-block-start: 34px;
+    }
+
+    .us1 {
+        gap: 20px;
+    }
+
+    .us2 {
+        width: 100%;
+    }
+
+    input.form-control.us22 {
+        width: 100%;
+        padding-block-start: 4px;
+    }
+
+    .us2 {
+        width: 100%;;
+    }
+
+    img.us6 {
+        width: 24px;
+    }
+
+    footer.us {
+        padding-top: 4%;
+    }
+
+    .us14 {
+        padding-bottom: 16px;
+    }
+
+    p.us17 {
+        padding-bottom: 8px;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    p.intro4 {
+        font-size: 12px;
+    }
+
+    img.intro2 {
+        height: 152px;
+        object-fit: cover;
+        object-position: 30%;
+    }
+
+    p.intro5 {
+        font-size: 14px;
+    }
+
+    p.intro9 {
+        padding-inline: 10px;
+        font-size: 10px;
+        padding-block: 10px;
+    }
+
+    p.intro11 {
+        padding-inline: 8px;
+        font-size: 11px;
+        padding-block: 10px;
+    }
+
+    p.intro4 {
+        margin-bottom: 10px;
+    }
+
+    p.intro6 {
+        margin-bottom: 2px;
+    }
+
+    .intro12 {
+        top: 7%;
+    }
+
+    p.solutions5 {
+        font-size: 22px;
+    }
+
+    img.solutions10 {
+        width: 70%;
+    }
+
+    p.solutions6 {
+        font-size: 13px;
+    }
+
+    p.expert4 {
+        font-size: 21px;
+    }
+
+    p.welcome5 {
+        font-size: 26px;
+        padding-bottom: 12px;
+    }
+
+    .welcome7 {
+        row-gap: 14px;
+        padding-inline-end: 0%;
+        column-gap: 3%;
+    }
+
+    p.welcome9 {
+        font-size: 14px;
+    }
+
+    section.welcome {
+        padding-block-start: 0%;
+    }
+
+    .pricing5 {
+        gap: 5px;
+    }
+
+    p.pricing7 {
+        font-size: 22px;
+    }
+
+    .pricing10 {
+        font-size: 14px;
+        padding-inline: 20px;
+        line-height: 80%;
+    }
+
+    .pricing8 {
+        gap: 20px;
+    }                     
+    
+    .pricing21 {
+        padding-inline: 16px;
+        padding-block: 14px;
+    }
+
+    ul.pricing16 {
+        padding-block-start: 10px;
+        padding-inline-start: 30px;
+        padding-block-end: 10px;
+    }
+
+    p.pricing13 {
+        font-size: 16px;
+        padding-bottom: 16px;
+        line-height: 80%;
+    }
+
+    p.pricing15 {
+        padding-inline: 6px;
+        padding-right: 6px;
+        font-size: 12px;
+        padding-block: 10px;
+    }
+
+    p.pricing18 {
+        font-size: 12px;
+    }
+
+    p.pricing13 {
+        font-size: 12px;
+    }
+
+    p.pricing15 {
+        padding-inline: 6px;
+        padding-right: 6px;
+        font-size: 10px;
+        padding-block: 6px
+    }
+
+    span.pricing24 {
+        font-size: 8px;
+    }
+
+    ul.pricing16 {
+        padding-block-start: 6px;
+        padding-inline-start: 8px;
+        padding-block-end: 10px;
+    }
+
+    p.pricing20 {
+        font-size: 12px;
+        padding-block: 8px;
+    }
+
+    section.pricing {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    p.pricing18 {
+        font-size: 11px;
+    }
+
+    p.contact9 {
+        font-size: 12px;
+    }
+
+    .contact4 {
+        margin-top: 4%;
+        gap: 19px;
+    }
+
+    .contact5 {
+        padding: 6px;
+        padding-inline: 8px;
+    }
+
+    form.contact15 {
+        margin-top: 5%;
+        gap: 18px;
+    }
+    
+    p.us26 {
+        margin-top: 16px;
+        padding-bottom: 14px;
+        letter-spacing: 0px;
+        font-size: 12px;
+    }
+
+    .us1 {
+        padding-bottom: 18px;
+    }
+}
+
+@media only screen and (max-width: 375px){
+
+
+    p.solutions8 {
+        font-size: 12px;
+    }
+
+    .welcome12 {
+        font-size: 14px;
+    }
+
+    p.welcome9 {
+        font-size: 13px;
+    }
+
+    p.welcome5 {
+        font-size: 20px;
+        padding-bottom: 8px;
+    }
+
+    p.welcome6 {
+        font-size: 10px;
+        line-height: 140%;
+    }
+
+    .welcome3 {
+        gap: 20px;
+    }
+
+    p.pricing7 {
+        font-size: 16px;
+    }
+
+    p.pricing13 {
+        font-size: 9px;
+        padding-bottom: 12px;
+        line-height: 50%;
+    }
+
+    p.pricing20 {
+        font-size: 12px;
+        padding-block: 6px;
+        padding-inline: 20px;
+    }
+
+    .pricing21 {
+        padding-inline: 16px;
+        padding-block: 10px;
+        padding-inline-end: 10px;
+    }
+
+    p.pricing18 {
+        font-size: 9px;
+    }
+
+    p.contact9 {
+        font-size: 10px;
+    }
+
+    p.contact8 {
+        font-size: 14px;
+    }
+
+    .contact16 {
+        padding: 8px;
+    }
+
+    section.contact {  
+        margin-bottom: 10%;
+    }
+
+    p.intro5 {
+        font-size: 12px;
+    }
+
+    p.intro9 {
+        font-size: 9px;
+    }
+
+    p.intro11 {
+        font-size: 9px;
+    }
+}
